@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# Not mentioned by default directories
+.DS_Store
+.idea/
+
 # Distribution / packaging
 .Python
 build/
