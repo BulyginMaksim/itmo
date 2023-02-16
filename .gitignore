@@ -10,6 +10,11 @@ __pycache__/
 .DS_Store
 .idea/
 
+# Data directories
+second_term/openedu_cv/hw8/real_test
+second_term/openedu_cv/hw8/test1.zip
+second_term/openedu_cv/hw8/train.zip
+
 # Distribution / packaging
 .Python
 build/
